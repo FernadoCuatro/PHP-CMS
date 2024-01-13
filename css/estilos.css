@@ -1,0 +1,9 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+h4{
+    font-family: 'Righteous', cursive;
+}
+.shadow{
+    box-shadow:0 0 15px  rgba(0,0,0,.3);
+}
